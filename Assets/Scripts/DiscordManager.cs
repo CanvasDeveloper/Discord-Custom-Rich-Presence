@@ -11,7 +11,7 @@ public struct ButtonSettings
     public bool imageFill;
 }
 
-namespace MyScripts
+namespace Scripts
 {
     public class DiscordManager : MonoBehaviour
     {
